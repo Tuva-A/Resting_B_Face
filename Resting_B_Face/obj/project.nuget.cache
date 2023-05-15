@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQYWBaX/B1nDvpzaazCrOEHCbrmicUn+yX5hXv5HTJD4l43JIyocJApF51+06pf2GZE/COiIf/a9gCwbFcHDKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tuva.axelsson\\Documents\\Programmering\\Resting_B_Face\\Resting_B_Face\\Resting_B_Face.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuva.axelsson\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

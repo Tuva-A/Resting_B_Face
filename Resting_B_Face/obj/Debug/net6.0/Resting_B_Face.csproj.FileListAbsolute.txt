@@ -1,0 +1,17 @@
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\bin\Debug\net6.0\Resting_B_Face.exe
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\bin\Debug\net6.0\Resting_B_Face.deps.json
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\bin\Debug\net6.0\Resting_B_Face.runtimeconfig.json
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\bin\Debug\net6.0\Resting_B_Face.dll
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\bin\Debug\net6.0\Resting_B_Face.pdb
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\bin\Debug\net6.0\RestSharp.dll
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.csproj.AssemblyReference.cache
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.AssemblyInfoInputs.cache
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.AssemblyInfo.cs
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.csproj.CoreCompileInputs.cache
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.csproj.CopyComplete
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.dll
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\refint\Resting_B_Face.dll
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.pdb
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\Resting_B_Face.genruntimeconfig.cache
+C:\Users\tuva.axelsson\Documents\Programmering\Resting_B_Face\Resting_B_Face\obj\Debug\net6.0\ref\Resting_B_Face.dll
